@@ -1,0 +1,9 @@
+La implementación de canales digitales que admitan el flujo bidireccional de datos mediante operaciones de registro
+y consulta resulta crucial para la gestión comunitaria moderna. Al permitir que las comunidades registren sus reportes 
+mediante solicitudes POST, se abre una línea directa y constante de comunicación que elimina intermediarios e incrementa 
+la velocidad de recolección de incidencias. Paralelamente, la facultad de consultar de forma abierta estos datos 
+a través de peticiones GET fomenta la transparencia y auditoría ciudadana, permitiendo a los habitantes conocer 
+el estado real de sus sectores. La combinación de ambas funciones estructuradas dentro de una API organizada optimiza la 
+coordinación logística de las entidades encargadas, ayuda a evitar la duplicidad de reportes sobre una misma problemática 
+y promueve una toma de decisiones basada en datos históricos. En definitiva, estas herramientas convierten la información 
+dispersa en un inventario estructurado de necesidades prioritarias listas para ser resueltas de manera eficiente. 

@@ -1,0 +1,3 @@
+Al enviar una petición POST a la ruta http://localhost:3000/reportes con los datos de una incidencia, el objeto es empujado dentro del array global 'reportes' y se le asigna un ID numérico correlativo automáticamente.
+
+Cuando realizamos una petición de tipo GET a la misma ruta http://localhost:3000/reportes, el servidor responde devolviendo la lista completa (Array) con todos los objetos JSON que se encuentran almacenados temporalmente en la memoria activa del servidor.
